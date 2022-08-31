@@ -1,4 +1,4 @@
-# academics-management-software
+# Academics Management Software
 
 In the duration of the semester, we face a lot of challenges in terms of managing our academic courses, even more so in online semesters. There can be various notes, assignment/report deadlines, quizzes, projects etc. that require tracking. Besides just managing current courses, it is also important to plan future semesters and get realistic course feed-backs during the time of registrations. All of these processes can get complicated and may lead to critical mistakes. The origin of the idea of our project ‘Academic Management Software’, is from a blend of functions of Google calendar, Pingala, and Mookit.
 
